@@ -1,19 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Ashirbad+.+You+are+Welcome!+%F0%9F%8C%9F)
 
-<style>
-@font-face {
-    font-family: 'Caveat';
-    src: url('fonts/Caveat-Regular.ttf') format('truetype');
-}
-.caveat {
-    font-family: 'Caveat', cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
-
-</style>
-<span class="caveat">
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -94,4 +80,3 @@ Here are some of my notable projects:
 - 🌐 Portfolio: [View my portfolio](https://ashirbadpanda.github.io/Portfolio/)  
 - 📞 Phone: +91 7008152755  
 - 📍 Location: Bhubaneswar, Odisha, India
-</span>
