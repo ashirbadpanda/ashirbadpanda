@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ashirbadpanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-I'm a Full-Stack Engineer with a passion for creating seamless digital experiences. Welcome to my GitHub profile! Feel free to explore my projects and connect with me on LinkedIn.
+I'm a Full-Stack Engineer with a passion for creating seamless digital experiences. Welcome to my GitHub profile! Feel free to explore my projects and connect with me on <a href="https://www.linkedin.com/in/ashirbad-panda-8b3b05236/">LinkedIn.</a>
 
 
 
